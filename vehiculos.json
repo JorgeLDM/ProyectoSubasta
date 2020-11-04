@@ -1,0 +1,73 @@
+{
+	
+		"1": {
+			"Marca": "Mazda",
+			"Modelo": "2018",
+			"CC": "2000",
+			"Millaje": "125000",
+			"Estado": "Usado",
+			"URL1": "Fire/Mazda1.png",
+			"URL2": "",
+			"URL3": ""
+					},
+
+		"2": {
+			"Marca": "Honda",
+			"Modelo": "2018",
+			"CC": "1500",
+			"Millaje": "0",
+			"Estado": "Nuevo",
+			"URL1": "",
+			"URL2": "",
+			"URL3": ""
+					},
+
+		"3": {
+			"Marca": "BMW",
+			"Modelo": "2010",
+			"CC": "2300",
+			"Millaje": "255000",
+			"Estado": "Reconstruido",
+			"URL1": "",
+			"URL2": "",
+			"URL3": ""
+					},
+
+		"4": {
+			"Marca": "Toyota",
+			"Modelo": "2015",
+			"CC": "3000",
+			"Millaje": "155000",
+			"Estado": "Usado",
+			"URL1": "",
+			"URL2": "",
+			"URL3": ""
+
+					},
+					
+		"5": {
+			"Marca": "Lamborghini",
+			"Modelo": "2020",
+			"CC": "3500",
+			"Millaje": "0",
+			"Estado": "Nuevo",
+			"URL1": "",
+			"URL2": "",
+			"URL3": ""
+					},	
+
+					"6": {
+			"Marca": "Lamborghini",
+			"Modelo": "2020",
+			"CC": "3500",
+			"Millaje": "0",
+			"Estado": "Nuevo",
+			"URL1": "",
+			"URL2": "",
+			"URL3": ""
+					}	
+
+							
+		
+	
+}
