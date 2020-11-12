@@ -1,0 +1,24 @@
+.image-fondo {
+    background-image: url("../imagenes/subasta.PNG");
+}
+
+
+.cabecera{
+  color: #fff;
+  height: 500px;
+  line-height: 500px;
+  text-align: center;
+  vertical-align: middle;
+  text-shadow: #111 10px 10px 10px;
+  width: 100%;
+  background-position: 10px 10px;
+  background-attachment: scroll;
+  no-repeat center top;
+}
+
+body {
+    margin-top: 100px;
+    background-color: #646464;
+    width: 100%;
+    height: auto;
+ }
