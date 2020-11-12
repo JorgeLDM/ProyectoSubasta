@@ -1,0 +1,48 @@
+{
+  "vehiculos" : [ null, {
+    "CC" : "2000",
+    "Estado" : "Usado",
+    "Marca" : "Mazda",
+    "Millaje" : "125000",
+    "Modelo" : "2018",
+    "URL1" : "gs://proveesubasta.appspot.com/Mazda1.png",
+    "URL2" : "gs://proveesubasta.appspot.com/Mazda2.jpg",
+    "URL3" : "gs://proveesubasta.appspot.com/Mazda3.jpg"
+  }, {
+    "CC" : "1500",
+    "Estado" : "Nuevo",
+    "Marca" : "Honda",
+    "Millaje" : "0",
+    "Modelo" : "2018",
+    "URL1" : "gs://proveesubasta.appspot.com/Honda1.jpg",
+    "URL2" : "gs://proveesubasta.appspot.com/Honda2.jpg",
+    "URL3" : "gs://proveesubasta.appspot.com/Honda3.jpg"
+  }, {
+    "CC" : "2300",
+    "Estado" : "Reconstruido",
+    "Marca" : "BMW",
+    "Millaje" : "255000",
+    "Modelo" : "2010",
+    "URL1" : "gs://proveesubasta.appspot.com/BMW1.jpg",
+    "URL2" : "gs://proveesubasta.appspot.com/BMW2.jpg",
+    "URL3" : "gs://proveesubasta.appspot.com/BMW3.jpg"
+  }, {
+    "CC" : "3000",
+    "Estado" : "Usado",
+    "Marca" : "Toyota",
+    "Millaje" : "155000",
+    "Modelo" : "2015",
+    "URL1" : "gs://proveesubasta.appspot.com/Toyota1.jpg",
+    "URL2" : "gs://proveesubasta.appspot.com/Toyota2.jpg",
+    "URL3" : "gs://proveesubasta.appspot.com/Toyota2.jpg"
+  }, {
+    "CC" : "3500",
+    "Estado" : "Nuevo",
+    "Marca" : "Lamborghini",
+    "Millaje" : "0",
+    "Modelo" : "2020",
+    "URL1" : "gs://proveesubasta.appspot.com/Lambo1.jpg",
+    "URL2" : "gs://proveesubasta.appspot.com/Lambo2.jpg",
+    "URL3" : "gs://proveesubasta.appspot.com/Lambo3.jpg"
+  } ]
+}
